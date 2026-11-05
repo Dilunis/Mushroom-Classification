@@ -4,11 +4,7 @@ A simple web app that uses machine learning to predict if a mushroom is edible o
 
 
 
-📖 Project Description
 
-This project is a machine learning web app. You choose the traits of a mushroom (like cap shape, gill color, odor, and spore print color) from dropdown menus. The app then tells you if the mushroom is likely edible or poisonous.
-
-Problem it solves: It is hard for beginners to tell safe mushrooms from poisonous ones. This project shows how machine learning can learn from past data and help with this kind of decision.
 
 ✨ Features
 Predicts edible or poisonous from 22 mushroom traits
