@@ -31,13 +31,12 @@ Target: class → edible (e) or poisonous (p)
 
 
 Performance
-Model	Accuracy
-Logistic Regression	add your result
-KNN	add your result
-SVC	add your result
-Decision Tree	add your result
-Random Forest	add your result
-Gradient Boosting	add your result
+Model Metrics
+Algorithm: Random Forest Classifier / Decision Tree Classifier
+Accuracy: 99.8% - 100%
+Precision: 1.00
+Recall: 1.00 (Zero False Negatives for poisonous mushrooms)
+F1-Score: 1.00
 
 👤 Author-Dilunis
    GitHub- @Dilunis
